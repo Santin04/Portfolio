@@ -1,4 +1,5 @@
-import type { ReactNode, Viewport } from "react";
+import type { Viewport } from "next";
+import type { ReactNode } from "react";
 import "./globals.css";
 
 export const viewport: Viewport = {
